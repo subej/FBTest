@@ -1,0 +1,2 @@
+serviceClass: com.google.facebook.client.GreetingService
+path: 0FF117975CF6A4939D2F2ADB9E879049.gwt.rpc
